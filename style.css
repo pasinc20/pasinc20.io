@@ -73,12 +73,13 @@ li.nav-links a:hover {
 }
 
 .form {
-  text-align: absolute;
+  text-align: right;
   
 }
 
 
 #form-search { 
+  position: centre;
   width: 450px;
   line-height: 32px;
   padding: 20px 10px;
@@ -101,7 +102,7 @@ li.nav-links a:hover {
 
 /* FOOTER */
 footer  {
-  background: #f2f2f2;
+  background: #D3D3D3;
   border-top: solid 2px #e4e4e4;
 /*   position: fixed; */
   bottom: 0;
