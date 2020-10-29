@@ -58,7 +58,7 @@ li.nav-links a:hover {
 /* logo */
 .dingaa #logo {
   
-  margin-top: 30px;
+  top:0;
   text-align: absolute;
   display: block;
   margin: 25px;
