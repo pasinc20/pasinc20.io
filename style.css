@@ -64,9 +64,7 @@ li.nav-links a:hover {
   padding-bottom: 20px;
 }
 
-.form1 {
-  text-align: absolute;
-}
+
 
 #form-search { 
   width: 450px;
@@ -79,9 +77,6 @@ li.nav-links a:hover {
   
 }
 
-.form1 #form-search {
-  padding: 0 8px;
-}
 
 #form-search { 
   width: 450px;
