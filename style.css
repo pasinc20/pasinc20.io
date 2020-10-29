@@ -52,9 +52,11 @@ li.nav-links a:hover {
   color: #fff;
 }
 
-/* GOOGLE AREA */
+/* logo */
 .dingaa #logo {
-  text-align: center;
+  left:0;
+  top:0;
+  text-align: absolute;
   display: block;
   margin: 0 auto;
   clear: both;
