@@ -54,7 +54,7 @@ li.nav-links a:hover {
 
 /* logo */
 .dingaa #logo {
-  left:0;
+  
   top:0;
   text-align: left;
   display: block;
@@ -183,6 +183,8 @@ footer ul a:hover {
   
   
  #logo {
+   top:0;
+   left:0;
    padding: 0;
  }
   
