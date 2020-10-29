@@ -71,6 +71,7 @@ li.nav-links a:hover {
   width: 450px;
   line-height: 32px;
   padding: 20px 10px;
+  border-radius: 5px;
 }
 
 #form-search1 { 
@@ -86,7 +87,7 @@ li.nav-links a:hover {
 
 
 #form-search { 
-  
+  border-radius: 5px;
   width: 450px;
   line-height: 32px;
   padding: 20px 10px;
@@ -94,7 +95,7 @@ li.nav-links a:hover {
 
 .form #form-search {
   padding: 0 8px;
-
+border-radius: 5px;
 }
 
 /*#form-search:hover {
