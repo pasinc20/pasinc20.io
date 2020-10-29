@@ -68,7 +68,7 @@ li.nav-links a:hover {
 
 
 #form-search { 
-
+  text-align: center;
   width: 450px;
   line-height: 32px;
   padding: 20px 10px;
