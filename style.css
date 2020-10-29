@@ -7,6 +7,7 @@ body {
 
 header {
   width: 100%;
+  text-align: centre;
 }
 
 ul {
@@ -67,20 +68,19 @@ li.nav-links a:hover {
 
 
 #form-search { 
-  text-align: center;
+
   width: 450px;
   line-height: 32px;
   padding: 20px 10px;
 }
 
 .form {
-  text-align: center;
   
 }
 
 
 #form-search { 
-  text-align: center;
+  
   width: 450px;
   line-height: 32px;
   padding: 20px 10px;
@@ -88,7 +88,7 @@ li.nav-links a:hover {
 
 .form #form-search {
   padding: 0 8px;
-  text-align: center;
+
 }
 
 /*#form-search:hover {
@@ -197,7 +197,7 @@ footer ul a:hover {
   
  #form-search {
    width: 80%;
-text-align: center;
+
  }
   
  footer {
