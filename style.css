@@ -26,10 +26,10 @@ ul {
 
 #nav_bar #sign_in {
   background:#0000ff; 
-  margin-right: 15px;
-  margin-top: -50px;
+  margin-right: 5px;
+
   padding: 7px 15px;
-  border-radius: 3px; 
+  border-radius: 13px; 
   font-weight: bold;
 }
 
