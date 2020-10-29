@@ -53,7 +53,7 @@ li.nav-links a:hover {
 }
 
 /* GOOGLE AREA */
-.google #dingaa {
+.dingaa #google_img {
   text-align: center;
   display: block;
   margin: 0 auto;
@@ -64,6 +64,12 @@ li.nav-links a:hover {
 
 .form1 {
   text-align: left;
+}
+
+#form-search { 
+  width: 450px;
+  line-height: 32px;
+  padding: 20px 10px;
 }
 
 .form {
