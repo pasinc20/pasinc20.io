@@ -76,8 +76,8 @@ li.nav-links a:hover {
 
 #form-search1 { 
   width: 450px;
-  line-height: 100px;
-  padding: 20px 10px;
+  line-height: 32px;
+  padding: 50px 10px;
   border-radius: 15px;
 }
 
