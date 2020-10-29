@@ -53,7 +53,7 @@ li.nav-links a:hover {
 }
 
 /* GOOGLE AREA */
-.dingaa #google_img {
+.dingaa #logo {
   text-align: center;
   display: block;
   margin: 0 auto;
@@ -136,7 +136,7 @@ footer ul a:hover {
     display: none;
   }
   
- #google_logo {
+ #logo {
    padding: -5;
  }
   
@@ -180,7 +180,7 @@ footer ul a:hover {
   }
   
   
- #google_logo {
+ #logo {
    padding: 0;
  }
   
