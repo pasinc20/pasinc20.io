@@ -25,7 +25,7 @@ ul {
 }
 
 #nav_bar #sign_in {
-  background:#2939f0; 
+  background:#fff; 
   margin-right: 25px;
   padding: 7px 15px;
   border-radius: 3px; 
@@ -33,7 +33,7 @@ ul {
 }
 
 .nav-links {
-  color: #404040;
+  color: #fff;
 }
 
 a {
