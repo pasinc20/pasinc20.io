@@ -71,7 +71,7 @@ li.nav-links a:hover {
   width: 450px;
   line-height: 32px;
   padding: 20px 10px;
-  border-radius: 15px;
+  border-radius: 10px;
 }
 
 #form-search1 { 
@@ -83,12 +83,12 @@ li.nav-links a:hover {
 
 .form {
   text-align: center;
-  border-radius: 15px;
+  border-radius: 10px;
 }
 
 
 #form-search { 
-  border-radius: 15px;
+  border-radius: 10px;
   width: 450px;
   line-height: 32px;
   padding: 20px 10px;
@@ -96,7 +96,7 @@ li.nav-links a:hover {
 
 .form #form-search {
   padding: 0 8px;
-border-radius: 15px;
+border-radius: 10px;
 }
 
 /*#form-search:hover {
