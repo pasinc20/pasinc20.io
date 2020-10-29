@@ -77,13 +77,14 @@ li.nav-links a:hover {
 #form-search1 { 
   width: 450px;
   line-height: 32px;
-  padding: 50px 10px;
+  padding: 20px 10px;
   border-radius: 15px;
 }
 
 .form {
   text-align: center;
   border-radius: 10px;
+  
 }
 
 
@@ -99,10 +100,10 @@ li.nav-links a:hover {
 border-radius: 10px;
 }
 
-/*#form-search:hover {
+*#form-search:hover {
   border-color: #e4e4e4;
   padding-top: 0;
-}*/
+}
 
 .buttons {
   text-align: center;
