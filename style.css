@@ -24,7 +24,7 @@ ul {
 }
 
 #nav_bar #sign_in {
-  background: #4887ef; 
+  background: #808080; 
   margin-right: 25px;
   padding: 7px 15px;
   border-radius: 3px; 
@@ -113,7 +113,7 @@ footer  {
 
 footer ul li {
   display: inline;
-  color: #666666;
+  color: #808080;
   font-size: 14px;
   padding: 13px;
 }
