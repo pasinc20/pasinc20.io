@@ -17,13 +17,13 @@ ul {
 /* NAV BAR */
 #nav_bar {
   float: right;
-   min-height: 80px;
+   
 }
 
 #nav_bar li {
   display: inline-block;
   padding: -10px;
-    line-height: 80px;
+    
 }
 
 #nav_bar #sign_in {
@@ -37,7 +37,7 @@ ul {
 }
 
 .nav-links {
-  color: #484848;
+  color: #FFFFFF;
 }
 
 a {
