@@ -835,41 +835,7 @@ button,
         position: absolute; } }
 
 
-/* Signup Form1 */
-#signup-form1 {
-  display: -moz-flex;
-  display: -webkit-flex;
-  display: -ms-flex;
-  display: flex;
-  position: relative; }
-  #signup-form1 input[type="text"],
-  #signup-form1 input[type="password"],
-  #signup-form1 1input[type="email"] {
-    width: 18em; }
-  #signup-form1 > * {
-    margin: 0 0 0 1em; }
-  #signup-form1 > :first-child {
-    margin: 0 0 0 0; }
-  @media screen and (max-width: 480px) {
-    #signup-form1 {
-      -moz-flex-direction: column;
-      -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-      flex-direction: column; }
-      #signup-form1 input[type="type"],
-      #signup-form1 input[type="password"],
-      #signup-form1 input[type="email"] {
-        width: 100%; }
-      #signup-form1 > * {
-        margin: 1.25em 0 0 0; }
-      #signup-form1 .message {
-        bottom: -1.5em;
-        font-size: 0.9em;
-        height: 1em;
-        left: 0;
-        line-height: inherit;
-        margin-top: 0;
-        position: absolute; } }
+
 
 
 
