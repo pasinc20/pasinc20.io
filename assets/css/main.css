@@ -892,3 +892,87 @@ button,
       left: auto;
       margin: 1em 0 0 0;
       position: relative; } }
+
+
+
+
+/* NAV BAR */
+#nav_bar {
+ float: right;
+ 
+}
+
+
+
+#nav_bar li {
+ display: inline-block;
+ padding: -10px;
+  
+}
+
+
+
+#nav_bar #sign_in {
+ background:#0000ff;
+ margin-right: 10px;
+
+
+
+
+
+ padding: 7px 15px;
+ border-radius: 13px;
+ font-weight: bold;
+}
+
+
+
+.nav-links {
+ color: #FFFFFF;
+}
+
+
+
+a {
+ text-decoration: none;
+ color: inherit;
+}
+
+
+
+li.nav-links a:hover {
+ text-decoration: underline;
+}
+
+
+
+#sign_in:hover {
+ box-shadow: 1px 1px 5px #999;
+}
+
+
+
+#sign_in {
+ color: #fff;
+}
+
+
+
+/* logo */
+.dingaa #logo {
+
+
+ top:0;
+ text-align: absolute;
+ display: block;
+ margin: 25px;
+ clear: both;
+ padding-top: 112px;
+ padding-bottom: 20px;
+}
+
+
+
+
+
+
