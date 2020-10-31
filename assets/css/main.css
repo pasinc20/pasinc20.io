@@ -844,7 +844,7 @@ button,
   position: relative; }
   #signup-form1 input[type="text"],
   #signup-form1 input[type="password"],
-  #signup-form 1input[type="email"] {
+  #signup-form1 1input[type="email"] {
     width: 18em; }
   #signup-form1 > * {
     margin: 0 0 0 1em; }
