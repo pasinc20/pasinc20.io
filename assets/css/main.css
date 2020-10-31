@@ -777,7 +777,7 @@ button,
       padding: 0; } }
 
 /* Header */
-#navbar {
+.header #navbar {
 	text-align: top;
 }
 
