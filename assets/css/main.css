@@ -899,7 +899,7 @@ button,
 /* NAV BAR */
 #nav_bar {
  float: right;
- 
+ text-align: top;
 }
 
 
