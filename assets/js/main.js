@@ -148,7 +148,7 @@
 						$submit.disabled = true;
 
 					// Process form.
-					// Note: Doesn't actually do anything yet (other than report back with a "thank you"),
+					// Note: Doesn't actually do anything yet (other than report back with a "Lets go!"),
 					// but there's enough here to piece together a working AJAX submission call that does.
 						window.setTimeout(function() {
 
@@ -159,7 +159,7 @@
 								$submit.disabled = false;
 
 							// Show message.
-								$message._show('success', 'Thank you!');
+								$message._show('success', 'Lets go!');
 								//$message._show('failure', 'Something went wrong. Please try again.');
 
 						}, 750);
