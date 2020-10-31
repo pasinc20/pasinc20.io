@@ -8,7 +8,7 @@
 
 	#signup-form {
 		@include vendor('display', 'flex');
-		position: relative;
+		position: center;
 
 		input[type="text"],
 		input[type="password"],
