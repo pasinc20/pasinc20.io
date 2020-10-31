@@ -899,7 +899,7 @@ button,
 /* NAV BAR */
 #nav_bar {
  float: right;
- 
+ text-align: top;
 }
 
 
@@ -972,9 +972,6 @@ li.nav-links a:hover {
 }
 
 
-.topnav #nav_bar {
-	text-align: top;
-	)
 
 
 
