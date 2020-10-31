@@ -798,7 +798,7 @@ button,
 
 @media screen and (max-width: 480px) {
   #header {
-    margin: -10px 0 0em 0px; } }
+    margin: -10px 0 0em -15px; } }
 
 /* Signup Form */
 #signup-form {
