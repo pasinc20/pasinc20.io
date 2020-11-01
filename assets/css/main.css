@@ -778,7 +778,9 @@ button,
 
 /* Header */
 
-
+#topnav {
+	text-align: top
+}
 
 #header h1 {
   font-size: 3.25em;
