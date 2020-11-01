@@ -903,7 +903,7 @@ button,
 #nav_bar {
 	
 float: right;
-
+text-align: top;
 }
 
 
@@ -911,7 +911,7 @@ float: right;
 #nav_bar li {
  display: inline-block;
  padding: -10px;
-  
+  text-align: top;
 }
 
 
@@ -919,7 +919,7 @@ float: right;
 #nav_bar #sign_in {
  background:#0000ff;
  margin-right: 10px;
-
+text-align: top;
 
 
 
