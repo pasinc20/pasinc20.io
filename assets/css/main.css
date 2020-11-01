@@ -785,8 +785,9 @@ button,
 	
 #header p {
   font-size: 1.35em;
-  line-height: 1.65em; }
-
+  line-height: 1.65em;
+text-align: top; }
+  
 #header a {
   color: inherit; }
 
