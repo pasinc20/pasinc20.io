@@ -901,8 +901,13 @@ button,
 
 /* NAV BAR */
 #nav_bar {
- 
- justify-content: top;
+	
+	  display: -moz-flex;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  justify-content: center; }
+
 }
 
 
