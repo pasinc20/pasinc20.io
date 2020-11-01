@@ -807,13 +807,13 @@ button,
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
-  position: relative; }
+  position: center; }
   #signup-form input[type="text"],
   #signup-form input[type="password"],
   #signup-form input[type="email"] {
     width: 18em; }
   #signup-form > * {
-    margin: 0 0 0 1em; }
+    margin: 0 0 0 0em; }
   #signup-form > :first-child {
     margin: 0 0 0 0em; }
   @media screen and (max-width: 480px) {
