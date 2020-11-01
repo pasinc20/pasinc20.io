@@ -813,9 +813,9 @@ button,
   #signup-form input[type="email"] {
     width: 18em; }
   #signup-form > * {
-    margin: 0 0 0 0em; }
+    margin: 0 0 0 1em; }
   #signup-form > :first-child {
-    margin: 0 0 0 10em; }
+    margin: 0 0 0 15em; }
   @media screen and (max-width: 480px) {
     #signup-form {
       -moz-flex-direction: column;
