@@ -976,11 +976,7 @@ li.nav-links a:hover {
 }
 
 .topnav {
- display: -moz-flex;
-  display: -webkit-flex;
-  display: -ms-flex;
-  display: flex;
-  justify-content: right; }
+text-align: right
 }
 
 
