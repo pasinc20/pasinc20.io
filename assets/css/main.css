@@ -964,7 +964,7 @@ li.nav-links a:hover {
 /* logo */
 .dingaa #logo {
 
-
+justify-content: center;
  top:0;
  text-align: absolute;
  display: block;
