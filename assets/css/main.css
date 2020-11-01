@@ -111,7 +111,7 @@ body {
     -ms-transition: none !important;
     transition: none !important; }
   body > * {
-    position: center;
+    position: relative;
     z-index: 2; }
   @media screen and (max-width: 1680px) {
     body {
