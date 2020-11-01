@@ -17,7 +17,7 @@ canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
   margin: 0;
-  padding: -50px;
+  padding: 0;
   border: 0;
   font-size: 100%;
   font: inherit;
@@ -111,7 +111,7 @@ body {
     -ms-transition: none !important;
     transition: none !important; }
   body > * {
-    position: relative;
+    position: center;
     z-index: 2; }
   @media screen and (max-width: 1680px) {
     body {
