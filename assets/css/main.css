@@ -778,6 +778,8 @@ button,
 
 /* Header */
 
+#navbar {
+	align-text: top; }
 
 #header h1 {
   font-size: 3.25em;
@@ -807,7 +809,7 @@ button,
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
-  position: center; }
+  position: relative; }
   #signup-form input[type="text"],
   #signup-form input[type="password"],
   #signup-form input[type="email"] {
