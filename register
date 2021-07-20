@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Register | Job Seeker</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <link rel="stylesheet" href="main.css">
+       
+       <link rel="icon" href="fav.png" type="image/png">
+       
+       
+    
+       
+        
+    </head>
+    <body>
+   <link href='https://fonts.googleapis.com/css?family=Ubuntu:500' rel='stylesheet' type='text/css'>
+
+<div class="login">
+  <div class="login-header">
+    <img src="testlogo.png" alt="logo" width="150" height="150">
+    
+  </div>
+    
+    
+  <div class="login-form">
+      <h2> Register </h2>
+    <h3>Email address:</h3>
+    
+    <input type="text" /><br>
+    
+    
+    <h3>Password:</h3>
+    
+    <input type="password" />
+    <br>
+    <div class="remember">
+        <br>
+    </div>
+    <input type="button" value="Login" class="login-button"/>
+    <br>
+    
+    
+    
+    <a class="sign-up">Already have an account? Sign in here</a>
+    
+    
+
+  </div>
+    //outside+of+box
+</div>
+
+        
+        
+        
+    </body>
+</html>
