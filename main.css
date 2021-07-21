@@ -148,13 +148,14 @@ img {
     text-align:left;
 }
 
+@media screen and (max-width: 600px){
 .remember{
     text-align: left;
     margin:20px;
-   
+   visibility: hidden;
   
 border-radius: 15px;
-}
+}}
 
 
 
