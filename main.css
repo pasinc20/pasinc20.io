@@ -89,7 +89,12 @@ outline:none;
   box-sizing: border-box;
   border-radius:5px;
 }
+
+@media screen and (max-width: 600px){
+
 .login-form input[type="button"] {
+Visibility: hidden;
+Display:none;
 	font-size:15px;
   background-color: #4287f5;
   color: white;
@@ -101,6 +106,8 @@ outline:none;
   border-radius: 30px;
     -webkit-appearance: none;
 }
+}
+
 .sign-up{
   
   margin-left:0;
