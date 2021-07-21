@@ -93,8 +93,8 @@ outline:none;
 @media screen and (max-width: 600px){
 
 .login-form input[type="button"] {
-Visibility: hidden;
-Display:none;
+
+Display:margin:0px 0;
 	font-size:15px;
   background-color: #4287f5;
   color: white;
