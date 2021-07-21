@@ -71,6 +71,8 @@ padding-bottom:10%;
   border: 2px solid #0a75f5;
 }
 
+
+
 .login input[type="text"],
 .login input[type="password"]
  {
@@ -80,7 +82,7 @@ padding-bottom:10%;
 outline:none;
      
   text-align:left;
-  font-size:18px;
+  font-size:15px;
   width: 90%;
   padding: 12px 15px;
   margin: 0px 0;
@@ -89,23 +91,18 @@ outline:none;
   box-sizing: border-box;
   border-radius:5px;
 }
-
-
 .login-form input[type="button"] {
-
-	font-size:15px;
+    font-size:15px;
   background-color: #4287f5;
   color: white;
   padding: 14px 20px;
-  margin: 25px 0;
+  margin: 15px 0;
   border: none;
   cursor: pointer;
   width: 90%;
   border-radius: 30px;
-    -webkit-appearance: none;
+  -webkit-appearance: none;
 }
-
-
 .sign-up{
   
   margin-left:0;
@@ -136,7 +133,7 @@ color:#4287f5;
   
     width: 80%;
  
-  margin: 0px 0;
+  margin: 15px 0;
   display: inline-block;
  
   box-sizing: border-box;
@@ -153,14 +150,13 @@ img {
     text-align:left;
 }
 
-@media screen and (max-width: 600px){
 .remember{
     text-align: left;
     margin:20px;
-   visibility: hidden;
+   
   
 border-radius: 15px;
-}}
+}
 
 
 
