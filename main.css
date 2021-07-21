@@ -90,6 +90,7 @@ outline:none;
   border-radius:5px;
 }
 .login-form input[type="button"] {
+	font-size:15px;
   background-color: #4287f5;
   color: white;
   padding: 14px 20px;
